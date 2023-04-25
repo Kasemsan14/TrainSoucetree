@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+=======
+class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+>>>>>>> aab84fe63af61d4756422d9f5cfcea2da18e8bd6
+}
